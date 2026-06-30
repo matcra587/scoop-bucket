@@ -1,0 +1,22 @@
+{
+    "version": "0.6.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/matcra587/jira-cli/releases/download/v0.6.4/jira_0.6.4_windows_amd64.zip",
+            "bin": [
+                "jira.exe"
+            ],
+            "hash": "a3612d004d2d8395740d278ab4fab1d76c5e85a69233cfbaab60c9e10b7f0e61"
+        },
+        "arm64": {
+            "url": "https://github.com/matcra587/jira-cli/releases/download/v0.6.4/jira_0.6.4_windows_arm64.zip",
+            "bin": [
+                "jira.exe"
+            ],
+            "hash": "e7abd0dcdf69addbd533190cf433134b41dba8ea34ed1ef3a3cdb1a4a078d8d4"
+        }
+    },
+    "homepage": "https://github.com/matcra587/jira-cli",
+    "license": "MIT",
+    "description": "Agent-first Jira CLI for developer workflows"
+}
