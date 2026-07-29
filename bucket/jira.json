@@ -1,19 +1,19 @@
 {
-    "version": "0.15.0",
+    "version": "0.15.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/matcra587/jira-cli/releases/download/v0.15.0/jira_0.15.0_windows_amd64.zip",
+            "url": "https://github.com/matcra587/jira-cli/releases/download/v0.15.2/jira_0.15.2_windows_amd64.zip",
             "bin": [
                 "jira.exe"
             ],
-            "hash": "643d9288bfbc97b23e0cb32e3abedc6c30ee326f2bb150d521a50fa8f12850e1"
+            "hash": "9f31477ef056591c9b08b337d27d6b94bcbcac1ebb59a2a2b435b7492421c372"
         },
         "arm64": {
-            "url": "https://github.com/matcra587/jira-cli/releases/download/v0.15.0/jira_0.15.0_windows_arm64.zip",
+            "url": "https://github.com/matcra587/jira-cli/releases/download/v0.15.2/jira_0.15.2_windows_arm64.zip",
             "bin": [
                 "jira.exe"
             ],
-            "hash": "1b45f5618a15b7901e3d215e6455b32b8a8becd3e0451f79616b51b8901664f0"
+            "hash": "15eb553118672a6be7e049a8cbe4f0906872ba8e09e56d4fa812dc6e4803422a"
         }
     },
     "homepage": "https://github.com/matcra587/jira-cli",
