@@ -1,26 +1,26 @@
 {
-    "version": "1.9.0",
+    "version": "1.9.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/matcra587/actionlint/releases/download/v1.9.0/actionlint_1.9.0_windows_386.zip",
+            "url": "https://github.com/matcra587/actionlint/releases/download/v1.9.1/actionlint_1.9.1_windows_386.zip",
             "bin": [
                 "actionlint.exe"
             ],
-            "hash": "450aa9ad88e4fe5987feec5b9f53059865edfac7d0f7daad8c8ccd4d5a9fa91f"
+            "hash": "a67f94c5cd3907a0c3e624a46540398cedb9ff922e71f9e098719fec1fea48a2"
         },
         "64bit": {
-            "url": "https://github.com/matcra587/actionlint/releases/download/v1.9.0/actionlint_1.9.0_windows_amd64.zip",
+            "url": "https://github.com/matcra587/actionlint/releases/download/v1.9.1/actionlint_1.9.1_windows_amd64.zip",
             "bin": [
                 "actionlint.exe"
             ],
-            "hash": "97430f04ec7b7b6c0679fd43b8d362b71030ae6652c445a5957b261fc5a2905c"
+            "hash": "1cb6c4cd9eb1c22c1d8adbc5522b8acd13c3194e4290aa95ecb242dcceabcd2c"
         },
         "arm64": {
-            "url": "https://github.com/matcra587/actionlint/releases/download/v1.9.0/actionlint_1.9.0_windows_arm64.zip",
+            "url": "https://github.com/matcra587/actionlint/releases/download/v1.9.1/actionlint_1.9.1_windows_arm64.zip",
             "bin": [
                 "actionlint.exe"
             ],
-            "hash": "239e6c1a2dd99d0b34111364a580be304981cfe52c5f5f576d3ed4b32b049095"
+            "hash": "4b49d3a35383dc4bc8425402443c0fae4f5c2b67de6bb1568c247df9c54dc76b"
         }
     },
     "homepage": "https://github.com/matcra587/actionlint",
